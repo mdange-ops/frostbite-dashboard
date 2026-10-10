@@ -1,0 +1,3 @@
+period: July
+forecast: 1544
+inventory: 1450

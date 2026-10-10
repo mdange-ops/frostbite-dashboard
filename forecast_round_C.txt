@@ -1,0 +1,3 @@
+period: January
+forecast: 890
+inventory: 620
